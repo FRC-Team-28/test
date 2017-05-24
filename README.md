@@ -1,2 +1,1 @@
-This is a test repo for robotics
-memes are good
+This is a test repo for Team 28 robotics.
